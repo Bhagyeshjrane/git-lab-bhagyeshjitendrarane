@@ -6,3 +6,8 @@ I am a student at Adypu, currently learning Git and GitHub.
 =======
 # git-lab-bhagyeshjitendrarane
 >>>>>>> origin/main
+
+## Skills
+- Communication
+- Problem solving
+- Basic Git
