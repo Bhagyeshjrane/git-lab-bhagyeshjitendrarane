@@ -15,3 +15,6 @@ I am a student at Adypu, currently learning Git and GitHub.
 ## Projects
 - I am a student at Adypu, currently learning Git and GitHub.
 - A Git and GitHub practice project
+
+## Contact
+- Email: bhagurane1999@gmail.com
