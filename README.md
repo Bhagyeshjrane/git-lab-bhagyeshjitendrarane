@@ -15,6 +15,3 @@ I am a student at Adypu, currently learning Git and GitHub.
 ## Projects
 - I am a student at Adypu, currently learning Git and GitHub.
 - A Git and GitHub practice project
-
-## Social Links
-- LinkedIn: https://linkedin.com/in/your-name
