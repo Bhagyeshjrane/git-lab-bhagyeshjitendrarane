@@ -18,3 +18,7 @@ I am a student at Adypu, currently learning Git and GitHub.
 
 ## Contact
 - Email: bhagurane1999@gmail.com
+
+## Hobbies
+- Traveling
+- Traveling
